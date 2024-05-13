@@ -1,0 +1,166 @@
+{
+  "project_info": {
+    "project_number": "1050658836838",
+    "project_id": "perwork",
+    "storage_bucket": "perwork.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050658836838:android:9afe9833108fd7841b38a7",
+        "android_client_info": {
+          "package_name": "com.nishantsirohi.perwork"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050658836838-4uh55kt97cvguck237clcklgke62h0as.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nishantsirohi.perwork",
+            "certificate_hash": "b9b1e9c77cdb02de9cde2ea0fa6ac0fccbc2bd50"
+          }
+        },
+        {
+          "client_id": "1050658836838-98sf00fe9v77bf3kn9q3eanrtmv8jqu0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nishantsirohi.perwork",
+            "certificate_hash": "0ba353085f247a843cb459fee362362e420d2218"
+          }
+        },
+        {
+          "client_id": "1050658836838-c6l2bvb8ptbd5f60iptfdc2pm9bg4acn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nishantsirohi.perwork",
+            "certificate_hash": "ebefa899cb07f7824d5b242ce03a974cc2f336e2"
+          }
+        },
+        {
+          "client_id": "1050658836838-l8smg5c2ljhj3ip4p43fhtgv8o31qnda.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBraScb_s26cbbpnoA76kl0TaFS0rohPH8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050658836838-l8smg5c2ljhj3ip4p43fhtgv8o31qnda.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1050658836838-7pfllqtoc5i71689jchtli49o1mnjjlo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.perpenny.partner.perpennypartner"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050658836838:android:1cf6f6cc26c14e481b38a7",
+        "android_client_info": {
+          "package_name": "com.perpenny.partner.perpennypartner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050658836838-5m7bsjgvc9t2qm7c1o902a1bgon5upc4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.perpenny.partner.perpennypartner",
+            "certificate_hash": "b9b1e9c77cdb02de9cde2ea0fa6ac0fccbc2bd50"
+          }
+        },
+        {
+          "client_id": "1050658836838-itk1379nb9k8jorf36ebn8n40d8luiem.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.perpenny.partner.perpennypartner",
+            "certificate_hash": "698000cd2945ffce784f5c75aec84b3f6140bebe"
+          }
+        },
+        {
+          "client_id": "1050658836838-kllfajudf8v7vn709g3kmod7ora3hlgd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.perpenny.partner.perpennypartner",
+            "certificate_hash": "a5577802b4c9880a1d53cd2bc26acb683f5d0d36"
+          }
+        },
+        {
+          "client_id": "1050658836838-l8smg5c2ljhj3ip4p43fhtgv8o31qnda.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBraScb_s26cbbpnoA76kl0TaFS0rohPH8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050658836838-l8smg5c2ljhj3ip4p43fhtgv8o31qnda.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1050658836838-7pfllqtoc5i71689jchtli49o1mnjjlo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.perpenny.partner.perpennypartner"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050658836838:android:3dcc42f4171dced21b38a7",
+        "android_client_info": {
+          "package_name": "com.perpenny.restaurants.perpennyrestaurants"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050658836838-l8smg5c2ljhj3ip4p43fhtgv8o31qnda.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBraScb_s26cbbpnoA76kl0TaFS0rohPH8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050658836838-l8smg5c2ljhj3ip4p43fhtgv8o31qnda.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1050658836838-7pfllqtoc5i71689jchtli49o1mnjjlo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.perpenny.partner.perpennypartner"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
